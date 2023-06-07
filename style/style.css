@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(150deg, #0c545d,#690654) ;
+}
+section >h4{
+    text-align: center;
+    line-height: 20vh;
+    color: #fff;
+    margin: 0 auto;
+    padding-left: 50px;
+}
+.my_self > h2{
+    text-align: center;
+    color: #fff;
+}
+.my_self ul li a{
+text-decoration: none;
+}
+.my_self ul li{
+    list-style: none;
+    color: #fff;
+}
+.spn1{
+    margin-left: 80px;
+}
+.spn2{
+    margin-left: 25px;
+}
+.spn3{
+    margin-left: 92px;
+}
+.spn4{
+    margin-left: 85px;
+}
+.spn5{
+    margin-left: 75px;
+}
+section > h2{
+    text-align: center;
+    line-height: 20vh;
+    color: #fff;
+    padding-left: 50px;
+}
+section{
+    padding-left: 50px;
+}
